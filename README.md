@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm José García</h1>
-<h3 align="center">Backend Developer 👨‍💻 | Computer Science Engineer 🦾 </h3>
+<h3 align="center">Computer Science Engineer | Java & Spring Boot 🍃| React & Next.js ⚛️ | GNU/Linux & UNIX 🐧 </h3>
 
 ```
 techSkills = []
