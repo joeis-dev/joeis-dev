@@ -1,14 +1,13 @@
-<h1 align="center">Hi 👋, I'm José García</h1>
-<h3 align="center">Computer Science Engineer | Java & Spring Boot 🍃| React & Next.js ⚛️ | GNU/Linux & UNIX 🐧 </h3>
+<h1 align="center">Hi 👋, I'm José García aka Joe</h1>
+<h3 align="center">Computer Science Engineer 🧑🏽‍💻 | Worm Farmer 🪱🍃</h3>
 
 ```
-techSkills = []
+mainStack = [JavaScript, Typescript, Java, SpringBoot, PostgreSQL, Linux]
+otherTechSkills = [Docker...]
 ```
-- 🔭 I’m currently working on ... [It's a secret 🤫]
+- 🔭 I’m currently working on a platform buy worms and related products
 
-- 🌱 I’m currently learning **Next.js & Tailwind CSS**
-
-- 👨‍💻 All of my projects are available at ... Here, on my GitHub profile :D
+- 🌱 I’m currently learning **Java Testing and MCP Servers**
 
 - 📫 Reach me on **josegarcia.dev@gmail.com**
 
