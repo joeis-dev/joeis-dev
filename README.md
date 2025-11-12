@@ -5,9 +5,9 @@
 mainStack = [JavaScript, Typescript, Java, SpringBoot, PostgreSQL, Linux]
 otherTechSkills = [Docker...]
 ```
-- 🔭 I’m currently working on a platform buy worms and related products
+- 🔭 I’m currently working on **A course for learn to program**
 
-- 🌱 I’m currently learning **Java Testing and MCP Servers**
+- 🌱 I’m currently learning **Desing of Data-Intesive Applications**
 
 - 📫 Reach me on **josegarcia.dev@gmail.com**
 
