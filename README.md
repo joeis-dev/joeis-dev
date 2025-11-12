@@ -2,8 +2,8 @@
 <h3 align="center">Computer Science Engineer 🧑🏽‍💻 | Worm Farmer 🪱🍃</h3>
 
 ```
-mainStack = [JavaScript, Typescript, Java, SpringBoot, PostgreSQL, Linux]
-otherTechSkills = [Docker...]
+mainStack = [Java, Spring Framework, Linux, JavaScript, Typescript, PostgreSQL]
+otherTechSkills = [Docker, VIM, Homelabbing, Git]
 ```
 - 🔭 I’m currently working on **A course for learn to program**
 
