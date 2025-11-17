@@ -7,7 +7,7 @@ otherTechSkills = [Docker, VIM, Homelabbing, Git]
 ```
 - 🔭 I’m currently working on **A course for learn to program**
 
-- 🌱 I’m currently learning **Desing of Data-Intesive Applications**
+- 🌱 I’m currently learning **Desing of Data-Intesive Applications**, **Data Structures & Algorithms** and **SQL**
 
 - 📫 Reach me on **josegarcia.dev@gmail.com**
 
