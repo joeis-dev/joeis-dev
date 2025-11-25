@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm José García aka Joe</h1>
-<h3 align="center">Computer Science Engineer 🧑🏽‍💻 | Worm Farmer 🪱🍃</h3>
+<h3 align="center">Computer Science Engineer 🧑🏽‍💻</h3>
 
 ```
 mainStack = [Java, Spring Framework, Linux, JavaScript, Typescript, PostgreSQL]
 otherTechSkills = [Docker, VIM, Homelabbing, Git]
 ```
-- 🔭 I’m currently working on **A course for learn to program**
+- 🔭 I’m currently working on preparation of **A course for learn to program 🧑🏽‍💻** & **Flip&Learn app 📚**
 
 - 🌱 I’m currently learning **Desing of Data-Intesive Applications**, **Data Structures & Algorithms** and **SQL**
 
