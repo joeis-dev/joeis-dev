@@ -5,7 +5,7 @@
 mainStack = [Java, Spring Framework, Linux, JavaScript, Typescript, PostgreSQL]
 otherTechSkills = [Docker, VIM, Homelabbing, Git]
 ```
-- 🔭 I’m currently working on preparation of **A course for learn to program 🧑🏽‍💻** & **Flip&Learn app 📚**
+- 🔭 I’m currently working on preparation of a **course for learn to code 🧑🏽‍💻** & **Flip&Learn app 📚**
 
 - 🌱 I’m currently learning **Desing of Data-Intesive Applications**, **Data Structures & Algorithms** and **SQL**
 
