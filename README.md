@@ -30,8 +30,7 @@ Computer Science Engineer with 4+ years of experience on software development th
 
 ### 📈 Stats & Connectivity
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=joeis-dev&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joeis-dev&layout=compact&theme=tokyonight)
+[![GitHub Streak](https://streak-stats.demolab.com?user=joeis-dev&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=1024)](https://git.io/streak-stats)
 
 * **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/josegarcia-c
 * **Email:** josegarcia.dev@example.com
