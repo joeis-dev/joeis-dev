@@ -1,17 +1,40 @@
-<h1 align="center">Hi 👋, I'm José García aka Joe</h1>
-<h3 align="center">Computer Science Engineer 🧑🏽‍💻</h3>
+# Hi there, I'm Jose Garcia 👋
 
-```
-mainStack = [Java, Spring Framework, Linux, JavaScript, Typescript, PostgreSQL]
-otherTechSkills = [Docker, VIM, Homelabbing, Git]
-```
-- 🔭 I’m currently working on preparation of a **course for learn to code 🧑🏽‍💻** & **Flip&Learn app 📚**
+### CS Engineer 👨🏽‍💻 ∙ Ex-IBMer 👁️🐝Ⓜ️ ∙ Java 🍵 & Spring 🍃 ∙ PostgreSQL 🐘 ∙ TypeScript 🌎 & React ⚛️ ∙ Linux 🐧 ∙ Homelabbing 🥼💾
 
-- 🌱 I’m currently learning **Desing of Data-Intesive Applications**, **Data Structures & Algorithms** and **SQL**
+Computer Science Engineer with 4+ years of experience on software development that includes design, build & deploy solutions, as well as working on maintaining reliable, scalable, and high performance solutions with focus on clean code, security and architecture best practices.
 
-- 📫 Reach me on **josegarcia.dev@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/josegarcia-c/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/josegarcia-c/" height="30" width="40" /></a>
-</p>
+### 🛠️ Technical Stack
+
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | Java, JavaScript (ES6+), TypeScript, SQL, Bash |
+| **Backend** | Spring Boot, Node.js, Primefaces, Maven |
+| **Infrastructure** | Linux (Fedora/Debian), Docker, CI/CD Pipelines, Cloudflare Tunnels |
+| **Architecture** | Microservices, Monolithic Migration, RESTful APIs |
+| **Tools** | Git, NPM, Nginx Proxy Manager, Agile/Scrum |
+
+---
+
+### 👨‍💻 Professional Highlights
+
+* **Freelance (Backend Developer):** Improved deployment frequency by 150% (from 2 to 5 monthly deployments) through CI/CD automation. Modernized legacy systems using Spring and Maven.
+* **IBM (Backend Developer):** Improved deployment frequency by 150% (from 2 to 5 monthly deployments) through CI/CD automation. Modernized legacy systems using Spring and Maven.
+* **Legion Hack (Project Lead):** Led the development of Discord bots in Node.js/TypeScript for a high-traffic MVP (2,000+ users) during a Digital Hackathon.
+* **Migration Specialist:** Proven track record of transitioning monolithic applications into scalable microservices.
+
+---
+
+### 📈 Stats & Connectivity
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=joeis-dev&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joeis-dev&layout=compact&theme=tokyonight)
+
+* **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/josegarcia-c
+* **Email:** josegarcia.dev@example.com
+* **Location:** Zapotlanejo, Jalisco, Mexico 🇲🇽
+
+---
+> "Prioritizing high performance, security, and scalability in every line of code."
