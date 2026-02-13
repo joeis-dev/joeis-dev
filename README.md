@@ -32,7 +32,7 @@ Computer Science Engineer with 4+ years of experience on software development th
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=joeis-dev&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=1024)](https://git.io/streak-stats)
 
-* **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/josegarcia-c
+* **LinkedIn:** [My LinkedIn Profile](https://linkedin.com/in/josegarcia-c)
 * **Email:** josegarcia.dev@gmail.com
 * **Location:** Zapotlanejo, Jalisco, Mexico 🇲🇽
 
