@@ -1,6 +1,4 @@
-# Hi there, I'm Jose Garcia 👋
-
-### CS Engineer 👨🏽‍💻 ∙ Ex-IBMer 👁️🐝Ⓜ️ ∙ Java 🍵 & Spring 🍃 ∙ PostgreSQL 🐘 ∙ TypeScript 🌎 & React ⚛️ ∙ Linux 🐧 ∙ Homelabbing 🥼💾
+# Hi there, I'm Jose Garcia 👋 ∙ CS Engineer 👨🏽‍💻
 
 Computer Science Engineer with 4+ years of experience on software development that includes design, build & deploy solutions, as well as working on maintaining reliable, scalable, and high performance solutions with focus on clean code, security and architecture best practices.
 
